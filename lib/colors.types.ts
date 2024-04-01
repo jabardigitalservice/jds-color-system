@@ -22,7 +22,7 @@ export type Colors = {
   bluegray: ColorShades
 }
 
-export type ColorsWithOverride = {
+export type ColorsWithPrefix = {
   'jds-yellow': ColorShades
   'jds-green': ColorShades
   'jds-blue': ColorShades
