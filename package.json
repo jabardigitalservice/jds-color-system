@@ -1,7 +1,27 @@
 {
   "name": "jds-color-system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Import JDS Color System to your Tailwind CSS config. Override the default Tailwind color, or extends using `jds-{color}-{shade}` syntax",
+  "license": "MIT",
+  "author": {
+    "name": "Jabar Digital Service",
+    "email": "digital.service@jabarprov.go.id",
+    "url": "https://digitalservice.jabarprov.go.id/"
+  },
+  "repository": {
+    "url": "https://github.com/jabardigitalservice/jds-color-system",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/jabardigitalservice/jds-color-system/issues"
+  },
+  "keywords": [
+    "Design System",
+    "Color System",
+    "Color Extentions",
+    "Tailwind CSS",
+    "Jabar Digital Service"
+  ],
   "files": [
     "dist"
   ],
