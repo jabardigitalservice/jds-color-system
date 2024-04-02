@@ -27,17 +27,20 @@
   ],
   "main": "./dist/jds-color-system.umd.js",
   "module": "./dist/jds-color-system.es.js",
+  "types": "./dist/main.d.ts",
   "exports": {
     ".": {
+      "types": "./dist/main.d.ts",
       "import": "./dist/jds-color-system.es.js",
       "require": "./dist/jds-color-system.umd.js"
     }
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "generate-ts": "npx tsc lib/main.ts --declaration --emitDeclarationOnly --esModuleInterop --outDir dist",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build": "npm ci && npm run build:bundle && npm run build:types",
+    "build:bundle": "vite build",
+    "build:types": "npx tsc lib/main.ts --declaration --emitDeclarationOnly --esModuleInterop --outDir dist"
   },
   "devDependencies": {
     "typescript": "^5.2.2",
