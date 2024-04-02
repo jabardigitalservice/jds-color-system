@@ -112,4 +112,4 @@ Now the default Tailwind CSS colors should be override by JDS Color system
 
 ## 📄 License
 
-[MIT License](https://github.com/jabardigitalservice/jds-color-system/blob/main/LICENSE) © 2024-PRESENT [Ida Bagus Wedagama](https://github.com/Ibwedagama)
+[MIT License](https://github.com/jabardigitalservice/jds-color-system/blob/main/LICENSE) © 2024-PRESENT [Jabar Digital Service](https://github.com/jabardigitalservice)
