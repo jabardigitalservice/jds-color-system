@@ -36,6 +36,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "generate-ts": "npx tsc lib/main.ts --declaration --emitDeclarationOnly --esModuleInterop --outDir dist",
     "preview": "vite preview"
   },
   "devDependencies": {
