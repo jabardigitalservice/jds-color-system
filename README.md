@@ -26,6 +26,8 @@ Add Jabar Design System's Color Tokens to your Tailwind CSS config file. You can
 | gray     | 50         | 900      |
 | bluegray | 50         | 900      |
 
+**[Figma - JDS Color System](<https://www.figma.com/file/ekzixBpEUM1sVc0Pq2Pcp2/JDS---Color-System-(Community)-(Community)?type=design&node-id=1%3A2&mode=design&t=IuxJe77hKMrNczdx-1>)**
+
 ## 🚀 How to Use
 
 ### Installation
