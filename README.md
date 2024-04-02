@@ -1,4 +1,5 @@
 <p align="center">
+<br>
 <a href="https://digitalservice.jabarprov.go.id/">
   <img src="https://raw.githubusercontent.com/jabardigitalservice/jds-color-system/main/logo.png" alt="Jabar Digital Service" width="200">
 </a>
@@ -6,12 +7,11 @@
 <br>
 Jabar Digital Service Color System
 <br>
-<br>
 </p>
 
 ## ✨ Introduction
 
-Add Jabar Design System's Color Tokens to your Tailwind CSS config file. You can choose to extend, or override Tailwind CSS default colors. No more manually _✨copy and paste✨_ color from Figma to your code.
+Add Jabar Design System's color tokens to your Tailwind CSS config file. You can choose to extend, or override Tailwind CSS default colors. No more manually _✨copy and paste✨_ color from Figma to your code.
 
 ## 🦄 Available Colors
 
@@ -26,14 +26,19 @@ Add Jabar Design System's Color Tokens to your Tailwind CSS config file. You can
 | gray      | 50         | 900      |
 | blue-gray | 50         | 900      |
 
-**[Figma - JDS Color System](<https://www.figma.com/file/ekzixBpEUM1sVc0Pq2Pcp2/JDS---Color-System-(Community)-(Community)?type=design&node-id=1%3A2&mode=design&t=IuxJe77hKMrNczdx-1>)**
+<br/>
+<p>
+<a href="https://www.figma.com/file/ekzixBpEUM1sVc0Pq2Pcp2/JDS---Color-System-(Community)-(Community)?type=design&node-id=1%3A2&mode=design&t=IuxJe77hKMrNczdx-1" target="_blank">
+Figma - JDS Color System
+</a>
+</p>
 
 ## 🚀 How to Use
 
 ### Installation
 
 ```bash
-npm install jds-color-system
+$ npm install jds-color-system
 ```
 
 ### Extends Tailwind CSS Color
@@ -96,7 +101,7 @@ export default {
 }
 ```
 
-Now the default Tailwind CSS colors should be override by JDS Color system
+The JDS Color System should replace the default Tailwind CSS colors
 
 ```html
 <p class="text-green-50">JDS Color System</p>
