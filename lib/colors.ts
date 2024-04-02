@@ -85,7 +85,7 @@ export default {
     800: '#424242',
     900: '#212121'
   },
-  bluegray: {
+  'blue-gray': {
     50: '#E3E7ED',
     100: '#B9C3D3',
     200: '#8D9DB5',

@@ -19,7 +19,7 @@ export type Colors = {
   red: ColorShades
   purple: ColorShades
   gray: ColorShades
-  bluegray: ColorShades
+  'blue-gray': ColorShades
 }
 
 export type ColorsWithPrefix = {
@@ -30,5 +30,5 @@ export type ColorsWithPrefix = {
   'jds-red': ColorShades
   'jds-purple': ColorShades
   'jds-gray': ColorShades
-  'jds-bluegray': ColorShades
+  'jds-blue-gray': ColorShades
 }
