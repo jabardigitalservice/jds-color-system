@@ -15,7 +15,7 @@ Add Jabar Design System's Color Tokens to your Tailwind CSS config file. You can
 
 ## 🦄 Available Colors
 
-| Color    | From Shade | to Shade |
+| Color    | from Shade | to Shade |
 | -------- | ---------- | -------- |
 | yellow   | 50         | 900      |
 | green    | 50         | 900      |
