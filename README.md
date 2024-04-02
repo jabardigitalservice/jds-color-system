@@ -15,16 +15,16 @@ Add Jabar Design System's Color Tokens to your Tailwind CSS config file. You can
 
 ## 🦄 Available Colors
 
-| Color    | from Shade | to Shade |
-| -------- | ---------- | -------- |
-| yellow   | 50         | 900      |
-| green    | 50         | 900      |
-| blue     | 50         | 900      |
-| pink     | 50         | 900      |
-| red      | 50         | 900      |
-| purple   | 50         | 900      |
-| gray     | 50         | 900      |
-| bluegray | 50         | 900      |
+| Color     | from Shade | to Shade |
+| --------- | ---------- | -------- |
+| yellow    | 50         | 900      |
+| green     | 50         | 900      |
+| blue      | 50         | 900      |
+| pink      | 50         | 900      |
+| red       | 50         | 900      |
+| purple    | 50         | 900      |
+| gray      | 50         | 900      |
+| blue-gray | 50         | 900      |
 
 **[Figma - JDS Color System](<https://www.figma.com/file/ekzixBpEUM1sVc0Pq2Pcp2/JDS---Color-System-(Community)-(Community)?type=design&node-id=1%3A2&mode=design&t=IuxJe77hKMrNczdx-1>)**
 
