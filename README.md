@@ -11,7 +11,7 @@ Jabar Digital Service Color System
 
 ## ✨ Introduction
 
-Add Jabar Design System's Color Tokens to your Tailwind CSS config file. You can choose to extend, or override Tailwind CSS default colors. No more manually _✨copy and paste✨_ color from Figma to you code.
+Add Jabar Design System's Color Tokens to your Tailwind CSS config file. You can choose to extend, or override Tailwind CSS default colors. No more manually _✨copy and paste✨_ color from Figma to your code.
 
 ## 🦄 Available Colors
 
